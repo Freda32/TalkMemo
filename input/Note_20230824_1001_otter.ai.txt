@@ -1,0 +1,91 @@
+Unknown 0:00
+We have been advised with assignments we also have to greater should be shortly and our Da Da is missing an extra he will be here next week. So, from next week they will take the lab sessions and take you through what assignments are how you should submit it and so on
+
+Unknown 1:05
+I hope everybody everyone brought a laptop because you're expected to work on assignments in the lab and only if you cannot complete it in the lab, you should take it home the deadline is starting next class at only 9am. So, you can submit your assignments as many times as you want the data submissions will count and after that you will lose access to the repository. So you cannot submit anything if you have an exception some medical condition or something that is no good excellent but it has to be responsive
+
+Unknown 2:13
+Okay, so hopefully if I read this right, should I make it bigger?
+
+Unknown 2:22
+Okay. So please make sure you have a GitHub account. You have installed GitHub three CLI command line interface, you can run things in the terminal we discussed in the first class. If you have any questions about those are chained, they can can help you with with that and have everyone installed conda anyone who has not done that
+
+Unknown 3:01
+if you have issues regarding that, you know we can help you and then also even Jupiter lab should be installed in the controversial moment because this is a notebook. I'm going to show you you can run this, this will help you in the assignment this notebook is designed designed to make your life a bit easier. So diamonds are such you have to submit lap one.py to get a classroom by the deadline. I'm going to take you through a presentation about how to access get a classroom, how to connect your GitHub account to your user ID or student ID and then how to actually make a submission. Again, this will give the assignments individually you should you can talk to each other. If you have any issues but do not copy you can send us an email, you should have the email in the syllabus. There will be no ta of office hours today because it's not here. But feel free to email me or any of the course producers. You will look up resources like Python docs or StackOverflow. But just don't question search the question themselves and then again you can submit multiple times your grade will be based on your last submission Okay, so let's do a recap on what we learned in the class. So we learned about some operators. So you know we have multiplication, addition, subtraction, division, modulo float operator and exponential. So just to recap this, you know, this is what you get
+
+Unknown 4:59
+out Now again, we learn a bit about the types. So we learned about three types in the first class, you know, there is a float, type of x is lower type of my is integer, and type of C is string, right. So important to know we are going to do in the assignment, you will be doing some mathematical computations, and some string manipulation. So, types are important. So, here's the sample code, which converts temperature from Fahrenheit to Celsius. So, it asks for Fahrenheit, and then they, it's asking for input and then convert it to float. And then temperature in Celsius is calculated according to that formula. And then you can display the temperature. So let's try this out quickly. So 100 Fahrenheit, is 37.7 degrees Celsius. So simple, simple stuff. The function, we discuss the function input, it reads in his text string, so we have to convert it to float. And then the function float does exactly that it can convert a texture into float if it is right from version otherwise. And then you have this assignment statements which you can put an expression and then assign the value to the left hand side. And then yeah, so this is different from mathematical equality, which is w equal signs. So be wary of this, if you use equality in terms when you want to double equality or vice versa, you're going to get some errors. Okay, functions. So Python has a number of built in functions. Print is one function, float is one function, int is another function. Input is also a function. But we can also define our own functions, which we will be doing in the assignment. And then we can just reuse that function as many times as we want. So let's define one function. So first line says Import math. So math is a library in Python, which already has a bunch of functions and constants available for you to use. And then the functions are defined by this keyword, def, and then circle underscore some circumference is the name of the function, it should be all lowercase, it can have underscore in it, it cannot have numbers in the name of the function. You can you can have uppercase letters in the function names. Python will not complain, but I haven't complained because this is not compatible in in that case, so do not use uppercase function. And then the third parameter is radius. So this is the input to the function. So what this function is doing is calculating circumference of a circle. And the formula is two pi r. So it simply says two multiplied by five. So that starts by is very important that in the beginning, and pi is a constant there, so we are reusing it instead of defining 3.15. And then we'll get back in areas and then simply you return. So function can returns a value or it cannot return a value, it depends on what we want to do. But in this case, it returns the circumference of the server. Now, this is a very simple function it's not accounting for, if we give it a negative value, if it give it a string, for example, it assumes that we were giving it a float or integer, which is fine for the first assignment. So we are not going to try to catch you in that. But going forward, you will be more wary of the different types of injuries. So if a function is expecting an integer, and you give it a string, it should explicitly raise an error. And it shows that you're doing something wrong. first assignment, don't worry about it. Then, you know let's try this out. So circle circle circumference of a circle with radius equal to one is 6.0. And then Okay, so we discuss that. Yeah. Okay, so Not all functions should return a value or not all functions return a value, they might just print something to a file, for example, and then just exit. here's the here's the function because printing the input input computes the area, perimeter, and then it prints land is land. Area is area and this one is not returning anything, but just printing some information. A function can also have multiple values. So in this function is the same function as before, but instead of printing alien parameters, we are returning area and parameter. So when you return something from something is returned. A tupple is another data type in Python, which we will cover in the second class. tupple is anything which you, you surround it with parentheses, and you can have as many as the values in that data, in this case acceptable of which two values. You don't have to specify parameters explicitly in Python, because it knows it's it's only readable. But if you remember that of Python, explicit is better than implicit. So if you want, you should, and you can give it a parenthesis so that you make it explicit that a tupple has been returned. You can also say tupple, like this. And then it does the same thing. So this is it.
+
+Unknown 11:55
+So that input to the tupple is always one thing I gave it to so now it's complaining. So let's change that. And now we have done in a couple now. So let's talk about some string manipulation functions. Here's the link. If you click on it, this takes you to Python documentation. And let's just go there and see what there's a string dot capitalize case for center count. And so it has a bunch of functions. You should go over these at your leisure. But the functions which we might use an assignment to experiment. So there's the light, India becomes the first nation led spacecraft or moon South Pole. So I'm going to print x, and then I'm going to convert the whole sentence to uppercase, and then to lowercase. And then I'm also going to print the length of the string. So this is our upper Lantis. And it's basically counting each character including the spaces for any whitespace. Okay, here's another useful method. In Python, you can treat strings as list, right? So you can iterate over each character in the string. So if I say for C, index, range C, then it's going to print individual guys today. My friend dissembling for the assignment. Okay. Okay, so that's about your lab notebook. Let me show you.
+
+Unknown 14:05
+Okay, so phase one is assignment. So this is I want to take notice, with every assignment if you want, but this is just a set of instructions to tell you how do you actually accept get a classroom assignments and do two things. So first of all, get an account anyone without a GitHub account.
+
+Unknown 14:36
+skip to the next. Next slide, you should log into GitHub before accepting the assignment. So this is assignment link. When you click on this, it will take you do a page like this. And then you should find your name and student ID on the left side and then link your PayPal account. So one when you click on it, whatever GitHub account you are All DNS will be associated with this sort of like. So that will then help us in giving the proper date. If you cannot find your name in this list, please that Chen Chen didn't know they can add you to the list then you the next, once you do that, then you should accept the assignment is like a big green button. So accept it. Once you accept the assignment, then you're ready to go like so you will see a link like this. So that one such a 999 in this case, because this is from a check, and then you know, after you accept the assignment, wait for repository to configure by so it might take it a second. So just refresh it, it will show up with this link. So click on that link. This link, click on it. So we have configured Visual Studio code in the classroom itself. So if you want, you can just use this or you can download the whole thing to your laptop, make changes and upload to GitHub back again.
+
+Unknown 16:17
+So x is the GitHub repository. So this is what your what it looks like, once you accept it and open the link, you have that one.py and test.py. I think those are the two things which you should whatever. readme just tells you a bunch of stuff about how to run your tests. And the next, you will. Okay, so now, what you can do is you can do two things, one, you can just make changes to the code on github.com itself, if you are, if you know what you're doing. And but you cannot run test there, right. So you it's better to just download or clone the repository to your local computer. But you do that by clicking on the code, and then you know that link, just copy that link using this button, and then go to the terminal. Okay, so you will need the x three here. So get CLI is a command line interface, forget who already has used it, click OK. So that's a few have not. So time to learn. So you can do like in the class itself. So we'll help you with that. So you go to the terminal, you type in git clone, and then this is the link I copied. And then it will show you something like this cloning into that one, Sudoku and then you know, it will just tell you what it's doing. Then you can cd into that one. So two CDs changed directory. And then you can LS file, run ls command ls just list all the files. So I should show you a lap on the desktop. Yeah, can you go into more details how to go into a terminal? Sure, I can show you a few. Okay, so once you have written your code, you should go to your assignment folder, which was lab one Sogou for my case, and then make sure you have Python pi tests installed, you can just type in pip install PI test, Pip is the Python package manager, you install everything in Python using so make friends. And then you can run pi test test.py. So the best.py has some test cases. And you know, you can test your code against that. If you see a test pass or all tests pass, you're good to go. If you see some errors, then you should fix your code. In the actual grading script, we have more test cases. And it covers you know, a bunch of corner cases too. So make sure you think it through and then and then how to submit your assignment. You open the terminal again go to your folder, and then you type in that command git commit lab one.py minus m minus m is just a message implemented the code for first assignment or you know implemented three functions or whatever you want to do. And then git push origin names you can these two commands should work out of the box. If you see some errors then okay, he office hours today. Any questions? Okay.
+
+Unknown 19:56
+Do we have to do the whole thing like we did on Tuesday with a conda and making the virtual connection all that, yeah, Where were those instructions where were those instructions
+
+Unknown 20:08
+it was a link in the slides
+
+Unknown 20:17
+those are
+
+Unknown 20:24
+those instructions are here. I can put them on Blackboard. But these are you can copy this from the slides itself. For the for the first week's lecture tells you how to create a bit of account called installation and how to create a virtual environment and so on.
+
+Unknown 20:46
+Okay
+
+Unknown 20:53
+so let's let me try to accept that assignment.
+
+Unknown 21:04
+Okay, so I clicked on this link, and it's telling me to link my account, I'm going to skip it. And then, you know, it gave me this link. So I click on this link. And I can click on this, copy the link from there and then go to the terminal
+
+Unknown 21:33
+just gonna do it in my temp folder. So I say git clone, this repository. And then if I do a hazard, so I get this slap on. So CD.
+
+Unknown 22:05
+And then I have this lap on the fever, because I was already playing with this thing, this lab will not be away, it's not like exact, exactly what I want to say what it has, yeah, it just has. So what it will have shouldn't be something like that.
+
+Unknown 22:37
+So it should have a file which has gone like this
+
+Unknown 22:49
+there are three functions, you should implement degrees to radians, you have to calculate radians given the degrees, and then that formula is given in pseudocode. Multiply by pi divided by quantity, you should have done that. And then the second assignment is welcome. So what about is simply you have a string, and then you should return the number of balls in the string right at IU has come from them up, and then should have done that. And you should make sure that code works for uppercase and lowercase strings also, so you know, E and capital V at the same in this case, so you should count. And then the third one is simply return the hypotenuse of a triangle, you have any space and height. So you don't have to worry about whether this is a valid triangle or not just you know the formula is as well as the square root of that. So you don't have to worry about if it gives you negative values here or not. Because you know we're not testing you on that. So the first assignment is a simple one. And so how I will do is because you know, I'm a bit confident in my programming skills. So I will just click on edit this file and start typing in some code
+
+Unknown 24:19
+so I can type it here and then just somebody but I recommend that you guys clone it, run your tests and then submit it. So let's say I made some changes to my lab one.py.
+
+Unknown 24:46
+News I saw I'm just typing whatever but do not change the name of the functions otherwise your test cases will fail. And then base and hide And then we've done right? So now I can do git status to see what changed in the repository. And it's telling me, you know, I modified the lab or not, right? So then I can say git commit that wonder py, and then give it a message, best case scenario. And then git push. Origin, right? So what this has done is I go back to my
+
+Unknown 25:55
+door repository, and you can see that whatever changes I made, are now in the data. So what will happen is what evaders will download this code, run a script and then get the sample source. So one thing to make sure that your test neither of your test cases should pop it should fail for any of the functions. So if you write a function, you know the triangle hypotenuse, and one test case has failed, that's not going to get us zero points. So make sure all of the test cases pass. Okay, now you can start working on the assignment. It should be in GitHub already. You should have access to this you know you go to assignments week one the classroom instructions are there the load book is there and then the level assignment is a PDF extent. So you can see what are the slides from from today it's there right that one
+
+Unknown 27:10
+are finished this top no other education into America occasion was removed. So I can't just finish this lecture
+
+Unknown 27:47
+I think I just picked this stuff. Because
+
+Unknown 27:51
+yeah. So slide number 15. Has this rate we've got this tells you how to install condyle. Just what I'm trying to
+
+Unknown 28:08
+do my username and password. I type it in the authorization. So you had the same problems? Yes.
+
+Unknown 28:29
+Okay, this picture, what's his name and user ID and a list of students? Okay, so if you're saying if you're trying to log in, in the GitHub CLI, and you're getting some errors of authorization, that means you're going to have to create some security tokens for your data. Let me see if I can find like putting up.
+
+Unknown 29:56
+Do that too so can you join the zoom session and share your screen so that we can see what exactly the problem has already been
+
+Transcribed by https://otter.ai

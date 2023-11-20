@@ -1,0 +1,109 @@
+Unknown 0:00
+And most issue, at least from what I saw, you know, they should report in on Piazza or, you know, on your submission as well like how to really like come for the words but this question is actually aimed at you know, asked you to try a request library. So for the request is pretty simple here just introduce request to stand up Gacho class was given URL, and you know, you'll get a response to some student use this response status for getting the the exceptions from the return, or some students count us to this status, which is a more like traditional way to find out if the middle class is successful or not. But either way, works. Once you get the response, you're going to pass the response. So the question will ask you to come forwards, but we didn't give you too much, too. Many Hang Seng how we really like a couple of words. But I think like in the real world, where you asked to, like extract the word wrong sentence, right. This word, like might appear at the end of the sentence with a set of punctuation was like a period. So in that case, that word should have also become right. And similar situation where solving exists case. So apparently, to like at least this is a way that I'm solving this problem. So when I try to find out if I want to come to the word in this case is what should be the comfort job, right? The first case, which will be a one the second case is zero, as Jonathan is not really shown. Right and for all the others there like a word John. So that's why all this rage should be counted as like Why Johnny and you know, from this observation, we found out okay, probably the best way as to replace the punctuation was space first, as you know the you know the strength based on the whitespace so that you know, all the words are split into tokens. So a way of doing that here that I use a function called translate. Probably you don't know that I can explain what it does here. So basically, translate translate the character to another character was the given, you know mapping and the mapping is defined in this function was called matrix. So matrix takes two arguments. The first argument is a string segment arguments also string, but this two string needs to have the same last so then this matrix will make a mapping from the frustrated with the second story. Okay. And in the first train had had two characters right, let's say the first three letters of restraints can, it has like 10 punctuations, and then each punctuation theme the first string will be replaced by the current corresponding character in the second string. So that's why the second string make it to be like a empty string multiplied by the length of the Sorrentine character marked by the last of the punctuation so that you know this is extra it has the same lessons for a string Okay. So then, if I do this translate on the text, all the punctuation so will be replaced was whitespaces. And then after that, I can compound the the given words, the given word, so you don't really know like to use how to use this translate function. There's also another way, which is a more classical way to do that. Just do like for C in response to our text, I'll just write this text but it should be response to our text and then outside we can do more be up to Asians and then it is tech stock replacement street response dot txt
+
+Unknown 4:15
+base each contribution with a West base to make a new camp right so after doing this for loop, all nitrogenous will be replaced with was a blast basis and then you can just do Techstop cons and now to search see function any question? So far?
+
+Unknown 4:46
+string dot punctuation Annika ani include a S C? I punctuations but not all punctuations are encoded according to a sci so maybe I'm worried about that string dot punctuation cannot include all the contributions that they that we made in the text maybe we can use now their logic in reverse that is not alpha, then replace it with
+
+Unknown 5:22
+food on the table. Yes. Okay. So, okay. I mean, that's that's the case what we'll take out from that. You're going to
+
+Unknown 5:36
+correct me if I'm wrong, but in the example in the comments you have like John and Jonathan. I am not 100% Sure, but I don't think this method accounts for what
+
+Unknown 5:51
+should be there. It should be. It should not be. Should not be. Yeah. I'm just making sure Yeah, so we're asking for the words I Jonathan south as a company, right. So John is just like substring. So it should shouldn't be.
+
+Unknown 6:08
+Like when you like when you do the when you replace like the punctuation with like a space like that that replaces punctuation, but it's not gonna separate jobs from like geography.
+
+Unknown 6:23
+But that's what we want, right? So we don't want the Johnsons to be like alright. So I want to spend based on the population. So like, in this case, we want to extract this extract, but for this case, I want just keep jumping. So that's why we replace all this to be whitespace right. So that if we do come based on the whitespace and then there's a struggle.
+
+Unknown 6:54
+I guess I'm just confused as to why we're included in that
+
+Unknown 6:57
+example. Oh, it's just showing like the conference this conference is the console of that. So like, right, so this is a one so on this one. So just want to show this like of course, like, what's it like this shouldn't be like if there's a document and Genesis inside and what I asked you to accomplish a couple of jobs and it shouldn't it shouldn't it should not be consolidated.
+
+Unknown 7:37
+Alright, Count method. Yeah. No, I ended up in council building and that's what I'm saying. In the logic of count
+
+Unknown 7:49
+is it all only going to look for the exact match of characters handling
+
+Unknown 7:56
+or just characters constant and Florida strengths? Right, what is the what is such as strength, right?
+
+Unknown 8:05
+Like for example, if you would hit Ctrl, F a Word file and you search J O HN. John and Jonathan would both
+
+Unknown 8:12
+pop up. That's a that's a ctrl f1 command. Right, that's essential.
+
+Unknown 8:17
+Now I understand that. What I'm saying is, does the dot count method have different logic so that it restricts it? To a string of the same length as well as the unique care
+
+Unknown 8:27
+so just looking for so I think it uses some like that, eliminator. whitespace so use whitespace. So if you use whitespace to tokenize, a whole string to like tokens, and then you know, the cover will only be nice he has told them to come
+
+Unknown 8:51
+again Yeah, but yeah, I think it's different from contract because contract with just looking forward character matching this character by character. I think Jonathan is counted
+
+Unknown 9:13
+on it. Kills Okay.
+
+Unknown 9:16
+Let's come logically. John is a substitute for like, John is when Jonathan
+
+Unknown 9:23
+Yeah, but John, John John as a word right. But John says, I totally get it. I got so okay, then this solution is gone. You can't use cotton. So okay, my bad. I thought, you know, the commons.
+
+Unknown 9:37
+I was, I mean, I use the Translate table, but I did not use counsel.
+
+Unknown 9:41
+Okay. Yeah, that's the I use count. And, and I, you know, when you guys change the number that we were looking for, I went to that method because that was very quickly. Yeah, any instance that matches? exactly that, you know, I didn't test it for a compound word. Like, you know, if we were looking for race and race car appeared, would it also catch that? Oh, I can't do that. But I think with this kind of problem. This right here this conversation highlights the complexity because especially in our language in other languages, as well, compound words are so prevalent, and so it almost becomes more of a linguistic problem. What specifically are you trying to capture versus the logic itself? We have the methods but it matters so much. Exactly. What type of return you're looking for. Yeah, I think these are all great solutions. I think I speak on everyone's part and that we should accept all of these
+
+Unknown 10:45
+I mean, so if I can, this who can use three is correct, but we should like split it based on the whitespace first, and then that come for how many tokens there was the same to the game yeah, but I mean, in the real world, when we want to select tokenizer strings, we usually this is kind of like the rule based methods. But right now they are like tokenizer is available, right? Like if you were like using those more professional libraries, those can provide a more, I will say, precise way for tokenize the words like you said, liking another language like the sushi might be different. So we can probably we can just use this such a simple rule to make that case we'll need to use those Tokenizers Yeah, so. Okay, so don't make that mistake. So. Okay, so let's get into the next one. So I think that's frustrating is pretty, pretty straightforward. It's just like test how they use how to use a beautiful soup was just set up, get with, get with class, and then you have the response to that response variable, and then you pass the text content into the Beautiful Soup. And then you have a soup object, right? And they look for a depth which classes fault. And then you just look on all the texts. And in each tab, there will be a span and a small tab. Right there's two texts, and they have their corresponding classes. So just add to extract the the tax and asked them and construct the return.
+
+Unknown 13:01
+So the first thing we're gonna talk about today is about XML. Secondly, one's about JSON which will be treated because this assignment will ask you to to fossa XML, XML file, and also just JSON to parse the response from the API. So what that's about the documentation, the office documentation library is here so you can take up to tarios and the cause. So the problem we're going to solve here is that there's something SS I don't know if you guys know what XML was promises. So that's what I can tell you this is 80 years ago. That was just after web 2.0. Then, you know, people are we're trying to set up a whole box of blogs. So at that time, at that time, if you're like interesting, some personal websites and we do want to subscribe it, you can do that. So some people have access. So if you export, so this is a public school for members. So if you scroll down to the bottom you will see that something which is accessed, right, so if you don't have like icebreaker, you can subscribe. This website or was this at the feet is represented as a XML file. So that gets routed via SSH and then inside that will be like a trendline on Illustrator I know it has a title and a bunch of items. Items at the same level Okay, so in order to pass this file, we send a request to this URL and get it back. Get the content back in this response object. I mean, as you know, you want to write a file you can do what I did here, basically where I have this thing called the intro file and then you have you have this corpus that hasn't helped and then you can use this function for us at that point. So it is important to do you need our parts and you don't really need to open this file. First. You can just passing the file pass to this to this function, and the return will be done between the XML tree. So if you don't write this to a file first don't write the contents of ours. You can just pass it into I think you can choose another option. Frustrating. So you see that frustrating and then ISP so it will return the thing. This process of just massive to help you rate the content volatile and possibly into some other training. All right. So once we have the tree, we can use the dot get to together route which is the ISS so if you go back to this as either route is ISS
+
+Unknown 16:36
+okay, they can use them to add this property together name of the tag, like in this case, to village child, okay use this like index to root out a row, since we're gonna have one child which there's a child here right so the return will be the channel or you can use Find, to find it to find this channel. So, find the returns the first child which satisfies the given tax so as a will have to channel and you do not find channel, only the first channel will return. Like in our case, there's only one channel so this is the only child that we want. So if we do this, this returns exactly the same as roots. So you can use either is a mess
+
+Unknown 17:35
+Alright, so once we have this channel here so in the channel, we're there a lot of other elements, we can list of elements by using this for loop. So we do four elements in this channel, tag, channel element, and then we print out the tag, the attribute and also the text inside the element. So we see there's a title is text, reading a bunch of items which is the same as the structure
+
+Unknown 18:32
+Yeah, so if I asked you to only extract the items and then you can just use an if statement, right to find out if the protagonist item. So you can use this for a builder. And then the next thing is that there's a good method for you to fetch the attribute. So for the rules, there's a trivial conversion. If I do get my version, the requested version, the XML version
+
+Unknown 19:07
+Okay, okay, so you're asking me to less to order, you know, print out all the titles, and all the title of the of the item. So what you can do as you do for loop, so this returns the channel that you do find it off. So final returns all the available elements. So you can compare this to find out this find find only returns the first element, but find all returns all the available elements. So if I'm on the channel, I will find all items all items will item will be returned. So in this case, I do this and then for the item so in each item, there will be a title, which is also the first child of item so I can do this zero, index zero to access this child and to text to get the title. Since you here if you don't really want to use this index to access this child, you can use this find to find methods to find title and then text. I think this or or like crazy straightforward is just a method for accessing elements in.
+
+Unknown 20:24
+Any any questions so far? Okay. All right. Yep. And then the next one is about JSON. So both JSON and XML are the format's designed for data exchange. Right? So if we want to send our data to some other party, we can come up with a seal written serialize our data into JSON right and then pass it to another party then a dump party can have a DC right so JSON back to objects in their own programming languages. And, you know, JSON is widely used for a web API's. So whether it is based on like functionality that designed for you, so you can request some kind of methods based on the URL and then the return will be in different formats. But JSON is a widely used format, right? So return will be in JSON and then you can pass as JSON to get the actual message provided by the API service provider. So the API we're looking at today is called as the National Weather as provided by National Weather Service, right? So if you go to examples, we're trying to use this API. So this API returns the weather alerts. And so you can pass in a region of area which is the state of California here and then it will send it will send you back all the weather alerts around out there in California. So when we want to use a web API, we can always like read it documentation first and test it out with some tools. Like in our case, it's a Gachi Gachi request. So we don't really need any other tools, we can just test it out of our, you know, using the browser. So we can do here is we can just copy this browser, right and replace this thing to be ca so this is really the return I think Jason tested with other states. See
+
+Unknown 23:00
+some of the API's may ask you to you know, let me just give example, a Google search API.
+
+Unknown 23:12
+So yeah, let's say it is more complicated than when they just show up. So like in Google, it came to requests for API key, which is one of the authentication method, so you need to request that the key was Google first. And then you get your own key. So at the time you you're using that API, you have to request Wes, in a standard request request this API key, but in our case is like a very simple case. There's no authentication needed. You only need this URL, this URL West, this argument, right. Okay, so some of the document also tells you what's the detail of the return, like what keys will be there if the key is not there? What will it be? Right with all the details, but this document I think it only tells you I don't think that support, because probably is detail somewhere. But I mean, like in our case, we only need to learn how to send this request for some complaint for some complicated API's. They will also be a playground for you, which you can test out the API on your website. So fortunately, we also have this this investment site. If you go to specifications. You can see there's a playground for the API's. So the API we're looking for is this alerts app. So if you click on this, it tells you all the all the arguments, it accepts. So the argument we're using is everything which is here. So if you want to try it out, you can try it out. And then go to area that is to see and then we send the request so this is a request to send. So by default, it's there's another argument called limit which only returns the first 500 records and the error see the responses.
+
+Unknown 25:45
+Okay, so now the returns 200. And this is the body of responsibility, which is exactly same as what we get here. But with this tool, you can play with more complicated API. And here, you see a lot of other optional arguments that you can tell us. Okay, so now that's back to back to programming. So if we want to do it, and in Python, you can send a request with this argument or receive a response. So instead of doing response to attacks, and then, you know, send this text into JSON downloads, you can directly use this function called JSON which will convert the response into JSON format.
+
+Unknown 26:51
+And JSON in Python. So all the data types in JSON have their corresponding data types in pipe all the data types a JSON has to have their corresponding data types in Python. So that's why you know, even if it's a JSON way fast into Python, it's a dictionary. And the dictionary is different keys and each key values and values could be like an integer, could be the last of the dictionary but that's all the data types in Python. You can just use it as a normal Python. So if I want to ask you to to listen to all the keys in JSON file, once it's parsed into Python, you can just do dot keys, and the keys for it has all keys and in a JSON file right? And if I asked you to list all the feature IDs, you go to this feature in data and then do a follow up on it extracts all IDs.
+
+Unknown 28:03
+One last thing I want to cover here as when the request is if the URL is not correct, right, we will return one in 200. So in this case, we can use a function called this race for status, which will raise an exception
+
+Unknown 28:28
+so as I showed in the scope here, as I showed here, right? So the traditional ways
+
+Transcribed by https://otter.ai

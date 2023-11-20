@@ -1,0 +1,427 @@
+Unknown 0:04
+So I have
+
+Unknown 0:09
+to say is a really important thing here is the development,
+
+Unknown 0:14
+network modeling and ongoing development which all of us use, and I'm sure some of you who are utilizing have come across many Apocalypse papers
+
+Unknown 0:35
+but because you quality here, maybe what we'll do is a really, really, really quick round of introductions. So, name and like five words or less kind of what you do or what you're interested in. And then
+
+Unknown 0:54
+what you do
+
+Unknown 0:58
+Marlon climate here, assistant professor, most of our research these days looking at by online community, and as far as like networks, that part of the suite of skills
+
+Unknown 1:12
+I don't know if that's like a religious thing
+
+Unknown 1:21
+like the originals are basically copied from the package
+
+Unknown 1:33
+so I think I grabbed another
+
+Unknown 1:45
+network was open source place until they didn't want to the license will be relevant in the spirit of it. Anyway. Sorry. Mentioned the religious
+
+Unknown 2:07
+about I was involved with the development but it was one of the very first network programs that was developed it was developed primarily by there was a computer science undergraduate at adopted in the early 70s. A project where we brought in gathered data, the Office of Civil Defense and if we had 162 respondents and we flipped them. We graph paper, and we stuck them together. When we put them up on the board. We read the information off of each, each
+
+Unknown 3:13
+questionnaire
+
+Unknown 3:15
+row by column. And then when we had that was being transferred from here to there to ensure that there was
+
+Unknown 3:31
+no work on it and it was one of the first
+
+Unknown 3:49
+there was a price
+
+Unknown 3:52
+for developers.
+
+Unknown 4:14
+On some kind of library.
+
+Unknown 4:33
+Customer patient and focusing on products
+
+Unknown 4:41
+to help them not.
+
+Unknown 4:55
+Are here and lots of different things. Most recent publication with connections among entrepreneurs who are developing projects without for profit, to share public support each other's causes and students cause networks
+
+Unknown 5:31
+intersections of culture and
+
+Unknown 5:57
+more interested in the health issues or
+
+Unknown 6:07
+Hi, my name is Alex. I read third year now, your Annenberg. So we're at somewhere at this intersection of participatory technologies
+
+Unknown 6:23
+critical critical
+
+Unknown 6:25
+interrogating information.
+
+Unknown 7:01
+Actually, I have experience on research, but my interest is social competence, central computing and my last published paper is about using the series off agenda setting is about using network analysis matters to do a search on social research on agenda setting
+
+Unknown 7:44
+Hello, I also know that second year PhD HD students and I thought this took place what.
+
+Unknown 8:12
+Who is susceptible to misinformation and how it spreads? So I'm looking at the context of survey data separate products.
+
+Unknown 9:01
+For the folks on line you want to quickly introduce yourselves My name is associate professor here at Merck. My research is in the area of corporate networks
+
+Unknown 9:36
+please can move on to
+
+Unknown 9:46
+the final year if everything is going well
+
+Unknown 9:48
+should be final year PhD candidate ever study advocacy communications, social media and social networks and really great to meet you.
+
+Unknown 9:59
+I love to meet people like to recite autographed papers
+
+Unknown 10:05
+and we go through
+
+Unknown 10:07
+our automatic and you don't actually
+
+Unknown 10:10
+write Hi, Maggie, I'm a PhD candidate in communication and I'm interested in social capital. And that's going to help coordinate to Professor
+
+Unknown 10:28
+Hi I'm Alyssa bag. I'm
+
+Unknown 10:30
+an assistant professor in the Psychology Department. My research interests are in Bucha connection broadly I use network analysis and conduction with neuro imaging to say things like individual differences in social network position and how that relates to individual cognition and your responses
+
+Unknown 10:52
+Hello, my name is Legion. I'm currently fifth year continuing candidate Annenberg as organizational communication and especially looking at how technology can help employees resolve conflicts in organizations.
+
+Unknown 11:08
+Thank you everybody.
+
+Unknown 11:15
+For the faculty
+
+Unknown 11:27
+you're at university. We have several universities
+
+Unknown 11:40
+but you are awesome.
+
+Unknown 11:41
+So yeah. physical locations so generously. Yep. I'm the short of it is I work on the methodology mostly network modeling methods. Most most, most of my contributions have been in the area of exponential formula and a bunch of other things. Do work. So some of it is computational. Developed a bunch of packages for the standard project, and the speaking of that, so I think one thing that might be interesting, if anybody has some interesting problems worth talking to me. So me okay. But so long story short, I will be here for this. This week and next week. I sounds like I'll probably be spending most days on this campus. response. I have the key card and all that. And so, yeah, I will be happy to meet with anybody here to talk about ideas or projects or projects. One thought and this is something I kind of wish were done with Northwestern is if I if there's interest, I could teach a workshop or master class on security. There are some folks who want to hear about some topic like for example, multi layer network analysis and there are several
+
+Unknown 13:31
+residents package of a multiband does some pretty powerful stuff. With multiple networks, if you can think of the right way specify them. And I think the language is very powerful, but but I think we still need to develop the right way to teach how to develop language. So I was thinking that when people were saying something like either workshop or a master class or any company with a problem
+
+Unknown 14:01
+will be required. hour and a half, two hours.
+
+Unknown 14:08
+Question I think it depends on how much background folks have because so just for reference, so we have those workshops that people fall into the the introduced standard introductory workshop for their packages three hours and it has fairly minimal prerequisites are but then multivariate workshop, it's actually so the way it usually goes actually has a bunch of other topics, and it has the intro workshop with the director but don't ever get to the multilayer part. So, so, the point is, we don't know the answers. I don't know. But I think three out of three hours, especially we have projects trying to give a talk on some topic that I have. I have some seminars in the cabinet since it gets sent to my main use
+
+Unknown 15:17
+of coordination. I don't see your current affair on campus at all. It's just a logistical question.
+
+Unknown 15:27
+I'm looking at specific people in this group that I know I've had conversations about wanting to use them so I know that there's some people here who would be coming with pretty good background on them. So they could like kind of come in kind of ready to start talking about more advanced topics. So we should coordinate. One option would be to try to utilize some of the time that we would have next Tuesday, but they need some front end and back end to build out at least maybe two
+
+Unknown 16:00
+hours that we can have.
+
+Unknown 16:04
+But I don't know if that fits your schedule and other things that you might have
+
+Unknown 16:07
+scheduled for the open. In fact, most of my company, most of all the fixed times are actually
+
+Unknown 16:25
+right now my physically open
+
+Unknown 16:30
+so would there be interest
+
+Unknown 16:33
+from some members here doing this? I mean, I personally was I was
+
+Unknown 16:42
+alright, so we'll coordinate and
+
+Unknown 16:46
+dependency graph looks like you're already set your your open lands. We'll figure out the location and time blocks
+
+Unknown 17:01
+Yeah, and we'll try to get
+
+Unknown 17:07
+that I'll
+
+Unknown 17:13
+have a constraint because I don't want to get your check that
+
+Unknown 17:20
+but otherwise, like it's called an awkward
+
+Unknown 17:27
+Okay, let's try to come up with a couple of options.
+
+Unknown 17:33
+There's definitely interest here so
+
+Unknown 17:38
+my Northwest came from Western is that I've kind of like I've talked to maybe three students about essentially the same thing and it would have been much more useful if we all got together and
+
+Unknown 17:55
+all right, well, that's okay.
+
+Unknown 18:02
+About you and your background before except to realize arrogance in there at work. I
+
+Unknown 18:19
+especially with your methodologies. And I appreciate that. But how did you tackle the need to build competency expertise in the areas to help into your main thing better? So I can imagine at some point you might have had to learn to navigate yourself around, you know, started computing kind of like techniques or methods or, you know, algorithms to increase the runtime improve the runtime rather. How did you balance like getting really good at the sizing versus getting good enough to help you?
+
+Unknown 18:57
+Thankfully, those things are pretty indestructible. I think I met computers and when I was 17, I fell in love with statistics. I took AP Statistics.
+
+Unknown 19:12
+I'm one of those people who kind of deal with his career trajectory from
+
+Unknown 19:18
+high school. So in that respect, some of some of it I teach or some of that I learned college, college because I'm pretty sure that some of it I think, ends up being on if I need to make something work, stuff looking for it. Also sometimes actually having to teach a class often, I think having to
+
+Unknown 19:55
+teach a class on a particular project.
+
+Unknown 20:00
+But I think that the bigger challenge is actually understanding what kind of methodology is actually useful? Because I think so. I think a lot of statistician was in the network analysis it's very much a solution, social problem, or hammer. Everything looks like a nail type situation, which, so you end up producing a very beautiful mathematics or very efficient algorithms to solve problems. Nobody. And then against the political but then he goes in there, physics and mathematics journals where they review but this edition went out that actually, nobody's going to use this
+
+Unknown 21:06
+my strategy has generally been well, so these are lessons I kind of learned when I was in grad school that you often want to work with subject matter. Experts. And if you look at my collaborator list, it's often a sociologist, it's epidemiologists. And it's where it says different for highly specialized, my most recent big work
+
+Unknown 21:38
+so for me, at least, the viruses I come from the direction mathematics and computing the bigger chance to get closer to the subject matter and actually understand what's needed rather than what the things are. Nice calmer. For very clever. But most of our do and I think.
+
+Unknown 22:22
+I'm always curious like for methodologies. Like the black what appears like a black box, a lot of us are subject matter specialists who are dabbling with
+
+Unknown 22:38
+what, but you will probably review a lot.
+
+Unknown 22:40
+You're a part of the network's community. A lot of
+
+Unknown 22:45
+your hard work. What do you see?
+
+Unknown 22:49
+People get wrong when they're trying to
+
+Unknown 22:57
+perhaps because this issue of translation is interesting to me, and I'm curious your perspective. Folks like myself
+
+Unknown 23:08
+a lot in
+
+Unknown 23:21
+terms of operations it's funny thing is when I mess review things actually, like I said the biggest keepers actually search for problems and the okay for example. And meeting amount of effort by very broken people, has been spent figuring out how to fit the organ with edges and triangles. I don't know whether that was ever tried to play out with gender generous and all those things. It's a it's sort of lots of very little effort to try to fit a model that actually doesn't.
+
+Unknown 24:15
+Think
+
+Unknown 24:16
+in terms of application, I think the biggest problem might be that instead of kind of
+
+Unknown 24:32
+doing it, like
+
+Unknown 24:34
+running, quickly picking the code until it runs without really understanding why it wasn't running in the first place. So I'm kind of trying to like try to train my residents out of that as well. Like, if there was a problem with you don't you're not getting such good results or it's failing. It's not a matter of finding the minimal change.
+
+Unknown 25:17
+is a matter of actually understanding why it's failing and like I said, you might be able to get some results. But if you're not sure that your model is really bad, nonsensical results, so that would be I guess, that'd be my approach.
+
+Unknown 26:00
+There are some problems. It might be computational, or it might be just the data itself. Do you think this can be fixed? Our.
+
+Unknown 26:22
+Voice
+
+Unknown 26:30
+two dimensions, one is
+
+Unknown 26:39
+my personal record is something like that.
+
+Unknown 26:49
+My collaborators, Washington they've been sitting assimilating networks because they were trying to communicate. So in that sense, but then there was also but there are there's also the more one of the boundary problems, online networks don't experience people don't try to model the whole Facebook. They define some kind of boundary and sometimes that boundary might be exogenous or defined, but most of the time because to be honest, I don't, I haven't looked at all that much. Because usually what I focus on resources, we use data that we don't like, and things like that. So put a quick, for example, what if you for example, your original data generated reasonable sampling, then your boundary is integer to a network, so in that sense, it's not quite clear what you're actually modeling into that. So that's where there's more substantive but then lastly, in terms of the sheer size, we say, depends on the networks. That depends on the actual network. The kind of the question of what kinds of the question you're actually modeling and having the information tomorrow but for example, okay, let's say we're looking at Facebook, you have a strong equity. Now, what do you actually have geographic information and if you don't then how do you represent it to you?
+
+Unknown 28:55
+Have a network effect like that? And then you do end up seeing the final quarter her like what you probably see, which is probably a part of the network part of the network, as well. So this idea like introduction effect, but then there's also but now you're also taking exogenous propinquity, or I don't know what place or otherwise or other types of effects and you're folding them into this
+
+Unknown 29:34
+triadic effect. So again, what are you reading? This is a little bit muddled, because I'm having to
+
+Unknown 29:43
+read just
+
+Unknown 29:50
+there I think I think
+
+Unknown 29:52
+it's a different kind of challenge of not just because they're big, but also to me. I think we try to study online so I guess there's there's kind of analyzing draft personalizing networks between network has context and the setting and like I said, like location information would be great if you could have that because that will alert explained a lot of structure in the network. But of course, we can't always get
+
+Unknown 30:43
+it's about for
+
+Unknown 30:47
+us to
+
+Unknown 30:54
+analysis.
+
+Unknown 31:15
+You are done for a job.
+
+Unknown 31:36
+degrees
+
+Unknown 31:38
+don't yourself along the way have a high degree note.
+
+Unknown 31:54
+Words
+
+Unknown 31:55
+are always your social, social part of the other words, you may talk to this many. So this is episode a problem. It's an old problem, actually.
+
+Unknown 32:12
+Paper by
+
+Unknown 32:15
+female males but does it actually discuss a problem and improve perfect world that wouldn't actually limit the number of nominations I do. However, that's how it is. Now I am actually working on so in the context of organs, there are two ways to approach it one of those kinds of requires identify the altars. Cultural each other I'm also working on one that doesn't, that doesn't work and focus actually presented. You would at the top. There is a challenge because and also there is the question of so in principle if you can get a name some idea how many cultures match the name generator. And then within those, you'd have some subset of them.
+
+Unknown 33:36
+But what details about that that's actually a lot better than just having a limited number of authors. Because at least that way, you can, I guess, use the word extrapolate, but it's not like that. It's it's almost do better. With paper.
+
+Unknown 34:08
+Survey surveys themselves competitors results as it relates to
+
+Unknown 34:19
+paper but basically we're saying that yeah, that thing that the other people suggested
+
+Unknown 34:30
+that was quick to point out social networks
+
+Unknown 34:46
+so in the,
+
+Unknown 34:48
+in the programming your approach, you don't really model individually, like your model, the hypothetical full network that they could have come from. So that's
+
+Unknown 35:07
+the model part of my main part of your target statistics control that has to be done.
+
+Unknown 35:25
+Understanding that correctly, in the sense that you do your network data collection to have a sample of individuals, let's say like my work is central Chicago, right. I can presume that they are a part of ag government community, but I'm not gonna go and actually tried to capture the whole network. So I have all these ego networks. And it sounds so is that like a requirements of utilizing
+
+Unknown 35:58
+this context in the message? Very briefly, the idea is that you say that, okay, well, based on these denominations that we have, those are presumably a sample from some of the individuals in some population that we don't get to observe. And so we use youth our sample to try to get an idea what are the big Well, what are the proper properties?
+
+Unknown 36:28
+What is the degree distribution? And then you've got a model for that. Do some maths to show that we can now quantify the uncertainty in the parameters of the model. And then we can simulate, reconstruct what might have looked like, with respect to the things that we observed. So that's kind of the approach
+
+Unknown 37:00
+like with that network or some kind of like contagion or where's the network is so.
+
+Unknown 37:25
+Different
+
+Unknown 37:27
+in that respect, but also you can
+
+Unknown 37:39
+two
+
+Unknown 37:52
+do you want to get I mean, because like
+
+Unknown 38:01
+I was I was on the email that she sent last night. I think she was just like, let me know when you're done. Okay, so our
+
+Unknown 38:25
+focus on online. Do you have any questions? Or
+
+Unknown 38:35
+more but I don't want to monetize.
+
+Unknown 38:50
+So,
+
+Unknown 38:52
+one thing I'm curious about. For the potential, like, let's say we focus only on the multi layer or would you recommend that we be prepared with this demo? Or demos, or do you want that data to bring to the table and what should we do? If not everyone has their own data to make this as efficient as possible for you to structure
+
+Unknown 39:24
+so I can, I could do the usual workshop but again, I think it will be more interesting
+
+Unknown 39:35
+musical analysis confidential but I think it might be something worth trying because like I said, I attended the workshop, but that workshop but I don't, I don't know whether that will be the most interesting. Especially if there's especially since it's going to be pretty small. I think, I think I've never done this before. So my
+
+Unknown 40:09
+question is how can we make helpful for you as an instructor I could sell if I had to show up and go we're still
+
+Unknown 40:28
+working through them. And then we can workshop we can focus on the more more, more more, go more in depth or focus on things that aren't covered in the tutorial that might be worth doing. So there's the urban tutorial
+
+Unknown 40:45
+tutorial tutorial.
+
+Unknown 41:24
+So
+
+Unknown 41:27
+what are you? What are you particularly excited about? Like where do you see some interesting things happening, whether it's your work or what other people are doing? Or like maybe really cool and interesting applications that require going back to the table and rebuilding
+
+Unknown 42:02
+one of those was this question sounds with sensors alters you don't you don't you also fortunate that you have the total count working to adjust for that and it turns out that you can take the approach essentially, okay, let's let's suppose the network is out there. And then let's say that we observed it under under this sense of process. Well, we know that then we could reconstruct what the our sample would have been like, under that process. And then the contract still tries to mess with the parameters until we match what we observed. So something like that, another direction again, this is purposes
+
+Unknown 43:01
+but also one thing that might be interesting there is so they have but they're they actually use a different approach to that way. But I wonder if there could be something that could work in between so that you can identify the ultimate difference, no doubt. So I know there's my underlying network. This demographic information will be as important about their alter it matches
+
+Unknown 43:45
+this person, this person this person.
+
+Unknown 43:50
+Questions. You won't be able to reconstruct the original network. You won't be able to identify the answers Exactly. But perhaps you could extract all the information you could from this for modeling purposes, and they invested that approach is that you can then once you've done the model, you could then actually ask okay, this particular ego we know that its potential alters and we have different possible networks that are consistent with that. Where does that situate the people within the network? How central are they? Based on this information? That could be interesting. The thing is, it's like I said, I get my best ideas when in contact with something better.
+
+Unknown 44:58
+It's sort of related to what we're saying but a slightly different way. And that is in the 1980s, or the 1990s. The biggest problem of network analysis, or dependency and the data that nobody knew how to account for the problems were a solution to that problem, overall. development level, create solutions were specialized versions of networks and so on. But I'm just curious, what do you think is, is today the biggest problem facing network analysis and where do you see the potential breakthrough? Coming?
+
+Unknown 45:55
+From. If you can solve a question what would it be and how would you go about doing
+
+Unknown 46:31
+that? I would say that okay, well, I think so if I were to solve a problem in one area of application that might disappoint folks in other areas and application.
+
+Unknown 46:54
+If I had a magic magic wand, magic contact 2.1 problem and they will solve it and then that one, company for dust I find
+
+Transcribed by https://otter.ai
